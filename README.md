@@ -1,6 +1,6 @@
 # QuizApp
 
-A Quiz application created in PHP, jQuery and Ajax using Open Trivia DB
+A Quiz application created in PHP, jQuery and Ajax using Open Trivia DB API
 
 Select a category and a difficulty, the api would generate questions dynamically for users to answer
 
